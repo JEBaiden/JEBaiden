@@ -2,5 +2,5 @@
 - 👀 I’m currently learning how to build websites from scratch and having a lot of fun along the way.
 - 🌱 I’m focused on acquiring new skills and enhancing my web development expertise.
 - 💞️ I’m open to collaborating on open-source projects and working with others.
-- 📫 You can reach me at [fccetin@yahoo.com](mailto:fccetin@yahoo.com).
+- 📫 You can reach me at [ceren.baiden@gmail.com](mailto:ceren.baiden@gmail.com).
 - 🌍 Fun Fact: I love discovering new places and trying new experiences to fully embrace life!
